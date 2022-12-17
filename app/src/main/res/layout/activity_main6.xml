@@ -6,19 +6,11 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity6">
 
-    <ImageView
-        android:id="@+id/imageView6"
-        android:layout_width="45dp"
-        android:layout_height="39dp"
-        app:srcCompat="@drawable/__512x380"
-        tools:layout_editor_absoluteX="57dp"
-        tools:layout_editor_absoluteY="0dp" />
-
     <TextView
         android:id="@+id/textView6"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="ไอ้ซ่าบ้าาาาา"
+        android:text="แจ้งเรื่องร้องเรียน"
         android:textSize="25sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="110dp"
