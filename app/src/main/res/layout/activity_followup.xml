@@ -4,13 +4,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity5">
+    tools:context=".Followup">
 
-    <Button
-        android:id="@+id/button7"
-        android:layout_width="227dp"
-        android:layout_height="47dp"
-        android:text="ออกจากระบบ"
-        tools:layout_editor_absoluteX="92dp"
-        tools:layout_editor_absoluteY="616dp" />
+    <ImageView
+        android:id="@+id/imageView22"
+        android:layout_width="411dp"
+        android:layout_height="66dp"
+        app:srcCompat="@drawable/k111411" />
 </androidx.constraintlayout.widget.ConstraintLayout>

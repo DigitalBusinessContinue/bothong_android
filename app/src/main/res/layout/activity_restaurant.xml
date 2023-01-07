@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Restaurant">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="410dp"
+        android:layout_height="68dp"
+        app:srcCompat="@drawable/r15155"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="5dp" />
+
+    <ImageView
+        android:id="@+id/imageView4"
+        android:layout_width="52dp"
+        android:layout_height="45dp"
+        app:srcCompat="?attr/actionModeCloseDrawable"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="233dp"
+        android:layout_height="131dp"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="285dp" />
+
+    <ImageView
+        android:id="@+id/imageView31"
+        android:layout_width="329dp"
+        android:layout_height="192dp"
+        app:srcCompat="@drawable/w111"
+        tools:layout_editor_absoluteX="41dp"
+        tools:layout_editor_absoluteY="494dp" />
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="254dp"
+        android:layout_height="51dp"
+        app:srcCompat="@drawable/map111"
+        tools:layout_editor_absoluteX="78dp"
+        tools:layout_editor_absoluteY="425dp" />
+
+    <ImageView
+        android:id="@+id/imageView24"
+        android:layout_width="241dp"
+        android:layout_height="161dp"
+        app:srcCompat="@drawable/_9592"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="73dp" />
+
+    <ImageView
+        android:id="@+id/imageView32"
+        android:layout_width="247dp"
+        android:layout_height="45dp"
+        app:srcCompat="@drawable/w333"
+        tools:layout_editor_absoluteX="82dp"
+        tools:layout_editor_absoluteY="234dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

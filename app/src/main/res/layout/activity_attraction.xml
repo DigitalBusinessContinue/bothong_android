@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Attraction">
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="414dp"
+        android:layout_height="74dp"
+        app:srcCompat="@drawable/_52552222" />
+
+    <ImageView
+        android:id="@+id/imageView28"
+        android:layout_width="390dp"
+        android:layout_height="228dp"
+        app:srcCompat="@drawable/cover"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="57dp" />
+
+    <ImageView
+        android:id="@+id/imageView29"
+        android:layout_width="284dp"
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/tme12542"
+        tools:layout_editor_absoluteX="63dp"
+        tools:layout_editor_absoluteY="263dp" />
+
+    <com.google.android.gms.maps.MapView
+        android:id="@+id/mapView2"
+        android:layout_width="285dp"
+        android:layout_height="158dp"
+        tools:layout_editor_absoluteX="63dp"
+        tools:layout_editor_absoluteY="323dp" />
+
+    <ImageView
+        android:id="@+id/imageView30"
+        android:layout_width="286dp"
+        android:layout_height="47dp"
+        app:srcCompat="@drawable/map111"
+        tools:layout_editor_absoluteX="62dp"
+        tools:layout_editor_absoluteY="492dp" />
+
+    <ImageView
+        android:id="@+id/imageView25"
+        android:layout_width="344dp"
+        android:layout_height="186dp"
+        app:srcCompat="@drawable/w222"
+        tools:layout_editor_absoluteX="33dp"
+        tools:layout_editor_absoluteY="539dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

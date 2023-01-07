@@ -10,6 +10,30 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BoThong65">
         <activity
+            android:name=".Detailfood"
+            android:exported="false" />
+        <activity
+            android:name=".Followup"
+            android:exported="false" />
+        <activity
+            android:name=".Register"
+            android:exported="false" />
+        <activity
+            android:name=".login"
+            android:exported="false" />
+        <activity
+            android:name=".Attraction"
+            android:exported="false" />
+        <activity
+            android:name=".Restaurant"
+            android:exported="false" />
+        <activity
+            android:name=".Complaints"
+            android:exported="false" />
+        <activity
+            android:name=".Home"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity6"
             android:exported="false" />
         <activity
