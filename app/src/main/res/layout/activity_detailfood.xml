@@ -7,11 +7,34 @@
     tools:context=".Detailfood">
 
     <ImageView
-        android:id="@+id/imageView35"
+        android:id="@+id/imageView30"
         android:layout_width="410dp"
-        android:layout_height="68dp"
-        app:srcCompat="@drawable/r15155"
+        android:layout_height="66dp"
+        app:srcCompat="@drawable/b3"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="5dp" />
+        tools:layout_editor_absoluteY="3dp" />
 
+    <ImageView
+        android:id="@+id/imageView31"
+        android:layout_width="389dp"
+        android:layout_height="118dp"
+        app:srcCompat="@drawable/a5"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="79dp" />
+
+    <ImageView
+        android:id="@+id/imageView32"
+        android:layout_width="393dp"
+        android:layout_height="119dp"
+        app:srcCompat="@drawable/a6"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="207dp" />
+
+    <ImageView
+        android:id="@+id/imageView37"
+        android:layout_width="394dp"
+        android:layout_height="119dp"
+        app:srcCompat="@drawable/a7"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="333dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
