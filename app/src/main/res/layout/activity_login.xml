@@ -11,7 +11,7 @@
         android:layout_width="230dp"
         android:layout_height="196dp"
         app:srcCompat="@drawable/_5111"
-        tools:layout_editor_absoluteX="79dp"
+        tools:layout_editor_absoluteX="90dp"
         tools:layout_editor_absoluteY="16dp" />
 
     <TextView
@@ -19,8 +19,8 @@
         android:layout_width="264dp"
         android:layout_height="44dp"
         android:text="User"
-        tools:layout_editor_absoluteX="55dp"
-        tools:layout_editor_absoluteY="352dp" />
+        tools:layout_editor_absoluteX="73dp"
+        tools:layout_editor_absoluteY="343dp" />
 
     <EditText
         android:id="@+id/editTextTextPassword3"
@@ -29,8 +29,8 @@
         android:ems="10"
         android:inputType="textPassword"
         android:text="Password"
-        tools:layout_editor_absoluteX="57dp"
-        tools:layout_editor_absoluteY="411dp" />
+        tools:layout_editor_absoluteX="75dp"
+        tools:layout_editor_absoluteY="406dp" />
 
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
@@ -39,28 +39,28 @@
     </com.google.android.material.textfield.TextInputLayout>
 
     <ImageView
-        android:id="@+id/imageView13"
-        android:layout_width="314dp"
-        android:layout_height="91dp"
-        app:srcCompat="@drawable/_51545444"
-        tools:layout_editor_absoluteX="30dp"
-        tools:layout_editor_absoluteY="224dp" />
+        android:id="@+id/imageView10"
+        android:layout_width="395dp"
+        android:layout_height="70dp"
+        app:srcCompat="@drawable/c1"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="230dp" />
 
     <ImageView
-        android:id="@+id/imageView5"
-        android:layout_width="195dp"
-        android:layout_height="39dp"
-        app:srcCompat="@drawable/f485"
-        tools:layout_editor_absoluteX="90dp"
-        tools:layout_editor_absoluteY="483dp" />
+        android:id="@+id/imageView15"
+        android:layout_width="203dp"
+        android:layout_height="47dp"
+        app:srcCompat="@drawable/a2"
+        tools:layout_editor_absoluteX="104dp"
+        tools:layout_editor_absoluteY="501dp" />
 
     <ImageView
-        android:id="@+id/imageView14"
-        android:layout_width="195dp"
-        android:layout_height="39dp"
-        app:srcCompat="@drawable/p4744"
-        tools:layout_editor_absoluteX="90dp"
-        tools:layout_editor_absoluteY="537dp" />
+        android:id="@+id/imageView16"
+        android:layout_width="205dp"
+        android:layout_height="46dp"
+        app:srcCompat="@drawable/a3"
+        tools:layout_editor_absoluteX="104dp"
+        tools:layout_editor_absoluteY="566dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
