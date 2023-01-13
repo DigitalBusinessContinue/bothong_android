@@ -31,11 +31,11 @@
 
     <ImageView
         android:id="@+id/imageView31"
-        android:layout_width="329dp"
-        android:layout_height="192dp"
+        android:layout_width="281dp"
+        android:layout_height="142dp"
         app:srcCompat="@drawable/w111"
-        tools:layout_editor_absoluteX="41dp"
-        tools:layout_editor_absoluteY="494dp" />
+        tools:layout_editor_absoluteX="65dp"
+        tools:layout_editor_absoluteY="491dp" />
 
     <ImageView
         android:id="@+id/imageView23"
@@ -60,5 +60,13 @@
         app:srcCompat="@drawable/w333"
         tools:layout_editor_absoluteX="82dp"
         tools:layout_editor_absoluteY="234dp" />
+
+    <ImageView
+        android:id="@+id/imageView26"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/_855555"
+        tools:layout_editor_absoluteX="80dp"
+        tools:layout_editor_absoluteY="644dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
