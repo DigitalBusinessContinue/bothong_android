@@ -4,4 +4,46 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Complaints"/>
+    tools:context=".Complaints">
+
+    <ImageView
+        android:id="@+id/imageView26"
+        android:layout_width="408dp"
+        android:layout_height="71dp"
+        app:srcCompat="@drawable/b1" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="222dp"
+        android:layout_height="29dp"
+        android:text="หัวข้อร้องทุกข์"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="78dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="124dp"
+        android:layout_height="32dp"
+        android:text="ถนนชำรุด"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="107dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="124dp"
+        android:layout_height="32dp"
+        android:text="น้ำปะปาไม่ไหล"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="139dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox3"
+        android:layout_width="124dp"
+        android:layout_height="32dp"
+        android:text="ไฟฟ้าดับ"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="171dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -6,12 +6,20 @@
     android:layout_height="match_parent"
     tools:context=".Restaurant">
 
+    <ImageView
+        android:id="@+id/imageView27"
+        android:layout_width="231dp"
+        android:layout_height="50dp"
+        app:srcCompat="@drawable/d4"
+        tools:layout_editor_absoluteX="90dp"
+        tools:layout_editor_absoluteY="637dp" />
+
     <com.google.android.gms.maps.MapView
         android:id="@+id/mapView"
         android:layout_width="211dp"
         android:layout_height="109dp"
         tools:layout_editor_absoluteX="100dp"
-        tools:layout_editor_absoluteY="285dp" />
+        tools:layout_editor_absoluteY="273dp" />
 
     <ImageView
         android:id="@+id/imageView24"
@@ -19,7 +27,7 @@
         android:layout_height="141dp"
         app:srcCompat="@drawable/_9592"
         tools:layout_editor_absoluteX="94dp"
-        tools:layout_editor_absoluteY="79dp" />
+        tools:layout_editor_absoluteY="69dp" />
 
     <ImageView
         android:id="@+id/imageView19"
@@ -28,5 +36,29 @@
         app:srcCompat="@drawable/b3"
         tools:layout_editor_absoluteX="0dp"
         tools:layout_editor_absoluteY="3dp" />
+
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="290dp"
+        android:layout_height="52dp"
+        app:srcCompat="@drawable/h1"
+        tools:layout_editor_absoluteX="60dp"
+        tools:layout_editor_absoluteY="210dp" />
+
+    <ImageView
+        android:id="@+id/imageView23"
+        android:layout_width="241dp"
+        android:layout_height="51dp"
+        app:srcCompat="@drawable/d1"
+        tools:layout_editor_absoluteX="85dp"
+        tools:layout_editor_absoluteY="391dp" />
+
+    <ImageView
+        android:id="@+id/imageView25"
+        android:layout_width="338dp"
+        android:layout_height="168dp"
+        app:srcCompat="@drawable/d2"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="449dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
