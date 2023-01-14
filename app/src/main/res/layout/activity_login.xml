@@ -48,19 +48,19 @@
 
     <ImageView
         android:id="@+id/imageView15"
-        android:layout_width="203dp"
-        android:layout_height="47dp"
-        app:srcCompat="@drawable/a2"
-        tools:layout_editor_absoluteX="104dp"
-        tools:layout_editor_absoluteY="501dp" />
+        android:layout_width="186dp"
+        android:layout_height="46dp"
+        app:srcCompat="@drawable/a3"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="565dp" />
 
     <ImageView
         android:id="@+id/imageView16"
-        android:layout_width="205dp"
-        android:layout_height="46dp"
-        app:srcCompat="@drawable/a3"
-        tools:layout_editor_absoluteX="104dp"
-        tools:layout_editor_absoluteY="566dp" />
+        android:layout_width="184dp"
+        android:layout_height="45dp"
+        app:srcCompat="@drawable/a2"
+        tools:layout_editor_absoluteX="113dp"
+        tools:layout_editor_absoluteY="503dp" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
