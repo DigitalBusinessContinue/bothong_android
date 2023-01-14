@@ -6,12 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".Complaints">
 
-    <ImageView
-        android:id="@+id/imageView26"
-        android:layout_width="408dp"
-        android:layout_height="71dp"
-        app:srcCompat="@drawable/b1" />
-
     <TextView
         android:id="@+id/textView3"
         android:layout_width="222dp"
@@ -57,5 +51,11 @@
         android:textSize="15sp"
         tools:layout_editor_absoluteX="51dp"
         tools:layout_editor_absoluteY="206dp" />
+
+    <ImageView
+        android:id="@+id/imageView26"
+        android:layout_width="411dp"
+        android:layout_height="74dp"
+        app:srcCompat="@drawable/b1" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

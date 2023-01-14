@@ -7,14 +7,6 @@
     tools:context=".Detailfood">
 
     <ImageView
-        android:id="@+id/imageView30"
-        android:layout_width="410dp"
-        android:layout_height="66dp"
-        app:srcCompat="@drawable/b3"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="3dp" />
-
-    <ImageView
         android:id="@+id/imageView31"
         android:layout_width="389dp"
         android:layout_height="118dp"
@@ -37,4 +29,10 @@
         app:srcCompat="@drawable/a7"
         tools:layout_editor_absoluteX="11dp"
         tools:layout_editor_absoluteY="333dp" />
+
+    <ImageView
+        android:id="@+id/imageView29"
+        android:layout_width="413dp"
+        android:layout_height="68dp"
+        app:srcCompat="@drawable/b3" />
 </androidx.constraintlayout.widget.ConstraintLayout>
