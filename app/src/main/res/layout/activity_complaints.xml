@@ -16,7 +16,7 @@
         android:id="@+id/textView3"
         android:layout_width="222dp"
         android:layout_height="29dp"
-        android:text="หัวข้อร้องทุกข์"
+        android:text="หัวข้อร้องเรียน"
         android:textSize="20sp"
         android:textStyle="bold"
         tools:layout_editor_absoluteX="16dp"
@@ -27,23 +27,35 @@
         android:layout_width="124dp"
         android:layout_height="32dp"
         android:text="ถนนชำรุด"
+        android:textSize="15sp"
         tools:layout_editor_absoluteX="51dp"
         tools:layout_editor_absoluteY="107dp" />
 
     <CheckBox
-        android:id="@+id/checkBox3"
-        android:layout_width="124dp"
-        android:layout_height="32dp"
+        android:id="@+id/checkBox4"
+        android:layout_width="125dp"
+        android:layout_height="33dp"
         android:text="น้ำปะปาไม่ไหล"
+        android:textSize="15sp"
         tools:layout_editor_absoluteX="51dp"
         tools:layout_editor_absoluteY="139dp" />
 
     <CheckBox
-        android:id="@+id/checkBox3"
-        android:layout_width="124dp"
-        android:layout_height="32dp"
+        android:id="@+id/checkBox5"
+        android:layout_width="127dp"
+        android:layout_height="34dp"
         android:text="ไฟฟ้าดับ"
+        android:textSize="15sp"
         tools:layout_editor_absoluteX="51dp"
-        tools:layout_editor_absoluteY="171dp" />
+        tools:layout_editor_absoluteY="172dp" />
+
+    <CheckBox
+        android:id="@+id/checkBox6"
+        android:layout_width="127dp"
+        android:layout_height="35dp"
+        android:text="ไฟไหม้"
+        android:textSize="15sp"
+        tools:layout_editor_absoluteX="51dp"
+        tools:layout_editor_absoluteY="206dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
